@@ -1,5 +1,5 @@
 
-div.main{
+.div.main{
     width: 200px;
     border-left: 5px solid green;
     background-color: purple;
@@ -7,10 +7,11 @@ div.main{
     border-left-width: 5px;
 
 }
-.div{
+.div#heading.heading{
     padding: 10px;
 width: 200px;
 
+	font-size: 20px;
 }
 .h1{
     
